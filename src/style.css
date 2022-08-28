@@ -41,6 +41,16 @@ h5 .logo:hover {
 	color: #fedd00;
 }
 
+footer {
+	padding: 32px;
+	background-color: #a7cfe8;
+}
+
+footer h4 {
+	color: #fff;
+	text-align: center;
+}
+
 .intro {
 	padding: 32px;
 	margin: 48px;
