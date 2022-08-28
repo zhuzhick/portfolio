@@ -51,6 +51,23 @@ footer h4 {
 	text-align: center;
 }
 
+footer h6 {
+	text-align: center;
+	margin: 16px;
+}
+
+footer h6 a {
+	text-decoration: none;
+	color: #fedd00;
+	font-weight: 700;
+	text-shadow: 3px 3px 4px#305d8a;
+}
+
+footer h6 a:hover {
+	color: #305d8a;
+	font-weight: 900;
+}
+
 .intro {
 	padding: 32px;
 	margin: 48px;
